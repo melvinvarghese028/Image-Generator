@@ -1,0 +1,5 @@
+export * from './AddSearch.jsx'
+export * from './Head.jsx'
+export * from './Images.jsx'
+export * from './LinkLexica.jsx'
+export * from './Text.jsx'
